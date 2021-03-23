@@ -1,3 +1,3 @@
-https://pranitcode.github.io/pranitcodes.github.io/
+https://pranitcode.github.io/startuppage.github.io/
 
 simple subscribe form integrated with mailchimp
